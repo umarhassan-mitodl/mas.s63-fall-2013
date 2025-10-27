@@ -32,7 +32,6 @@
     "website": "mas-s63-engineering-health-towards-the-tricorder-fall-2013"
   },
   "course_title": "Engineering Health: Towards the Tricorder",
-  "hide_download": true,
   "course_description": "Students will learn to fabricate, remix, and design detection and monitoring devices for health following the core focus of the Tricorder: a portable, handheld diagnostic device which can brings health solutions to consumers at home or in remote parts of the world. Inspired by the Tricorder X-Prize (with a purse of $10 million), students will aim to create specific component technologies that integrate into a comprehensive Tricorder mechanism capable of reading vital signs and specific disease biomarker detection. Component areas will include optical, electric, biochemical, and molecular diagnostics.\n",
   "department_numbers": [
     "MAS"
@@ -43,7 +42,6 @@
     "content": "725c588c-425d-ef6a-17a0-d0ccc454b464",
     "website": "mas-s63-engineering-health-towards-the-tricorder-fall-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "a727c576-7831-47ae-914c-3d52fca1b99a",
   "site_short_id": "mas.s63-fall-2013",

@@ -5,8 +5,6 @@ description: Detail of the photograph "Tricorder." Original photograph by Trevor
 file: /courses/mas-s63-engineering-health-towards-the-tricorder-fall-2013/02586f6bbafae0cd921bd9671531cbf0_mas-s63f13.jpg
 file_size: 19415
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "Detail of the photograph \"Tricorder,\"\_showing a toy based on a device\
     \ from the 1960s science fiction TV series \u201CStar Trek\u201D which could detect\
